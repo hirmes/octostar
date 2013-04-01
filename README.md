@@ -1,1 +1,1 @@
-Yeah, this doesn't do anything yet, really.
+For now, just an experiment with the github API.  It reads my starred repos, puts them in local storage (to avoid excess API calls), and displays them in a table.  It uses [Fuse.js](http://kiro.me/projects/fuse.html) for fuzzy search.
