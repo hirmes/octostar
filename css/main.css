@@ -61,9 +61,13 @@ textarea {
    ========================================================================== */
 
 
+#mainTable td {
+    padding: 5px;
+}
 
-
-
+.stripe {
+    background-color: #ccc;
+}
 
 
 
